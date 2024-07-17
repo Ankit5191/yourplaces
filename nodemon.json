@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "ankit",
+    "DB_PASSWORD": "1111",
+    "DB_NAME": "places",
+    "API_KEY": "6679a9e1047ae425882359vrnf161a0",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
